@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166307361062",
+    "project_id": "chat-mine-app",
+    "storage_bucket": "chat-mine-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166307361062:android:f99543484a15dc91c491e7",
+        "android_client_info": {
+          "package_name": "com.example.temp_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166307361062-50h48evcg80eqdtgs26cgfrr20c68hh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-AT5nrV3uLWZGd8oFtkaIE4o9X9M31g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166307361062-50h48evcg80eqdtgs26cgfrr20c68hh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020807384910",
+    "project_id": "passman-ccba5",
+    "storage_bucket": "passman-ccba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020807384910:android:35f20a5e20840b7aea581f",
+        "android_client_info": {
+          "package_name": "com.example.password_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020807384910-atk5csmegi33g0rohavr47b6do3uo34d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrLm--jP8OZs5ZSX5VFxDR7-ynlky2Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020807384910-atk5csmegi33g0rohavr47b6do3uo34d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
